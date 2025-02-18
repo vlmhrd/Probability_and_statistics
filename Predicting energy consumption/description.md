@@ -1,5 +1,5 @@
 ## Overview
-The project was aimed at understanding the relationship between number of appliances used and consumed energy by modeling linear regression prediction model 
+[Kaggle dataset](https://www.kaggle.com/datasets/govindaramsriram/energy-consumption-dataset-linear-regression/data) provided information of various energy consumption details. The project was aimed at understanding the relationship between number of appliances used and consumed energy by modeling linear regression prediction model 
 
 ## Project Goals
 - Visualize the relationship between energy consumption and number of appliances used
